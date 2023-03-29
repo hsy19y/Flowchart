@@ -1,9 +1,21 @@
-<mxfile host="app.diagrams.net" modified="2023-03-29T07:55:00.901Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.44" version="21.1.1" etag="qd4lu8ew3mR87Nub-Am6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-29T08:05:15.911Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.44" etag="fwJYS7Fu50GHmtdEgQRF" version="21.1.1" type="github">
   <diagram name="페이지-1" id="qc0F3FWGYYwdxMTPt3b9">
-    <mxGraphModel>
+    <mxGraphModel dx="647" dy="413" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="wKFNCTLmc27lVLogcxWC-1" value="PC" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="50" width="440" height="790" as="geometry" />
+        </mxCell>
+        <mxCell id="wKFNCTLmc27lVLogcxWC-4" value="Proccessing" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="wKFNCTLmc27lVLogcxWC-1">
+          <mxGeometry x="182.5" y="40" width="77.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wKFNCTLmc27lVLogcxWC-2" value="AURIX" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="50" width="440" height="800" as="geometry" />
+        </mxCell>
+        <mxCell id="wKFNCTLmc27lVLogcxWC-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="290" width="120" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
